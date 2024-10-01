@@ -1,10 +1,10 @@
 # Data Analytics Power Bi Report
 
 ## Description 
-The aim of this project is to complete a power Bi report of a medium sized international retailer. So Far I imported and transform the required tables to complete the project. 
+The aim of this project is to complete a power Bi report of a medium sized international retailer. So Far I imported and transform the required tables to complete the project. Futhermore, I have learnt how to build detail visual to dispaly trends and findings whilst also learing the importance of using the right visual type to display a certain type of data. Another important aspect that I have learnt when using Power Bi is the importance of variables relationships and how it effect calculates in the the Data pane.
 
 ## Useage 
-Talk about navigation buttons 
+To use Power Bi Report download the .pbix file in this git repository to access the file once you have gained access to the file you can navigate through the pages by holding on ctrl and clicking on each of the page navigation button in the navigation bar on the left hand side of the page. Futhermore, by clicking on each graph you can see what measures are used to build to the visual in the build pane to the right of the canvas also by clicking on each graph you can see how it effects other visuals on the same page. 
 
 ## Task 1: Setting up an enviroment
 The First task consisted of creating a git repo to save the work created in this project.
